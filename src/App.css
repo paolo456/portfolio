@@ -110,13 +110,16 @@
 	width: 200px;
 }
 .proj-link {
-	padding-top: 30px;
+	margin-top: 30px;
+    padding: 10px;
 }
 .proj-link2 {
-	padding-top: 30px;
+	margin-top: 30px;
+    padding: 10px;
 }
 .proj-link3 {
-	padding-top: 30px;
+	margin-top: 30px;
+    padding: 10px;
 }
 .strava-intensity-container {
 	display: inline-block;
@@ -177,7 +180,7 @@
 	position: relative;
     left: 25%;
     width: 200px;
-	animation: 2s slide-right 1s forwards;
+	animation: 1s slide-right .5s forwards;
 	  transform:translateX(-100%);
   }
   .slide-underline {
@@ -194,7 +197,7 @@
 	position: relative;
     left: 25%;
     width: 200px;
-	animation: 2s slide-right 1.5s forwards;
+	animation: 1s slide-right 1s forwards;
 	  transform:translateX(100%);
   }
   @keyframes slide-right {
