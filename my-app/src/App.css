@@ -44,6 +44,18 @@
 	background-color: #A2D2FF;
 	height: 75px;
 }
+.underline-nav {
+	position: absolute;
+    right: 30px;
+    border-bottom: 1px solid #EEEEEE;
+    padding-top: 45px;
+	padding-right: 30px;
+	animation: width 1.5s forwards;
+}
+@keyframes width {
+	from { width: 0px; }
+    to   { width: 175px; }
+  }
 .me {
 	font-family: 'Rubik', sans-serif;
 	font-size: 24px;

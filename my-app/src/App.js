@@ -19,6 +19,7 @@ function App() {
 			<div className='me'>Paolo Bondi</div>
 			<div><a className='linkedin' href='https://www.linkedin.com/in/paolo-bondi/'>LinkedIn</a></div>
 			<div><a className='git' href='https://github.com/paolo456'>Github</a></div>
+			<div className='underline-nav'></div>
 		</div>
 		<div className='body'>
 		<div className="slide-right">
