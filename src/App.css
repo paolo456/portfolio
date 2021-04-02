@@ -48,7 +48,7 @@
 	position: absolute;
     right: 30px;
     border-bottom: 1px solid #EEEEEE;
-    padding-top: 45px;
+    top: 45px;
 	padding-right: 30px;
 	animation: width 1.5s forwards;
 }
