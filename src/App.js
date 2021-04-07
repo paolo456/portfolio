@@ -38,7 +38,7 @@ function App() {
 								Twitter Vaccine Bot
 							</div>
 							<div className='twitter-info'>
-								Tweets the most recent data regarding vaccine appointments in the los angeles area
+								Tweets the most recent data regarding vaccine appointments in the Los Angeles area
 							</div>
 						</div>
 						
@@ -89,7 +89,7 @@ function App() {
 						</a>
 						<div className='twitter-container'>
 							<div>
-								Doctor Evindene
+								Doctor Evidence
 							</div>
 							<div className='twitter-info'>
 								Created and maintained application features in Javascript, Typescript and Alkali.js
@@ -104,7 +104,7 @@ function App() {
 			<div className='slide-underline'><div className='underline'></div></div>
 			<div className='proj-link'>
 					<div>
-						<a className='a-img' target='_blank' href='https://analytics.doctorevidence.com/'>
+						<a className='a-img' target='_blank' href='https://www.usfca.edu/'>
 							<img src={usf} alt = '' className='img'  />	
 						</a>
 						<div className='twitter-container'>
