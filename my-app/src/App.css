@@ -197,3 +197,41 @@
 	  transform:translateX(0);
 	}
   }
+  @media only screen and (max-width: 450px) {
+	.linkedin {
+		padding-top: 7px;
+	}
+	.slide-right h1 {
+		left: 0%;
+	}
+	.slide-right {
+		overflow: unset;
+	}
+	.slide-underline {
+		margin-left: 5px;
+	}
+	.twitter-container {
+		display: inline-block;
+		padding-bottom: 20px;
+		padding-left: 0px;
+		position: unset;
+	}
+	.strava-intensity-container {
+		display: inline-block;
+		padding-bottom: 20px;
+		padding-left: 0px;
+		position: unset;
+	}
+	.proj-link {
+		padding-left: 50px;
+	}
+	.proj-link2 {
+		padding-left: 50px;
+	}
+	.proj-link3{
+		padding-left: 50px;
+	}
+	.a-img {
+		padding-left: 50px;
+	}
+  }
